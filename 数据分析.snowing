@@ -1,0 +1,144 @@
+歌手单曲页面http://www.kugou.com/yy/singer/home/3060.html 数字为歌手编号
+
+歌手图片 参数singer为歌手汉语名url编码，英文为原字符
+http://mobilecdn.kugou.com/new/app/i/yueku.php?cmd=104&singer=%E9%83%9D%E7%BA%A2%E5%B2%A9&type=softhead&size=120
+
+请求资源前第一个post
+
+地址
+http://www.kugou.com/fm/app/i/?cmd=1&uid=44333827&key=45bddce826dbd9555a2ddfa3a0d9a8ec
+其中key值为定值
+
+参数
+fmid0=%E8%8E%AB%E8%89%B3%E7%90%B3&fmtype0=3&fmcount=1
+fmid为歌手汉字名称url编码，
+
+响应
+{"status":1,
+"data":[{	"fmtype":3,
+			"fmid":"\u83ab\u8273\u7433", 歌手名（编码方式未知）
+			"offset":"%7B%22offset%22%3A10%2C%22time%22%3A1469504608%7D",
+			"songs":[{	"sid":38248104,
+						"name":"\u83ab\u8273\u7433 - \u597d\u7537\u4eba",
+						"hash":"03527434F307C03842B9AE5163E5C874",
+						"size":3480764,
+						"ext":"mp3",
+						"time":218000,
+						"bitrate":128,
+						"mv":null,  没有mv
+						"trac":0,
+						"isfilehead":100},
+
+{"sid":27637561,"name":"\u83ab\u8273\u7433 - \u82b1\u6837\u5e74\u534e","hash":"23F4E2A98516237262C60A9F1032BC92","size":4596210,"ext":"mp3","time":287000,"bitrate":128,"mv":null,"trac":0,"isfilehead":100},{"sid":27573501,"name":"\u83ab\u8273\u7433 - \u770b\u6d77","hash":"860D012A1832453EEDAF862727B21A46","size":4786646,"ext":"mp3","time":298896,"bitrate":128,"mv":null,"trac":0,"isfilehead":100},{"sid":27352866
+,"name":"\u83ab\u8273\u7433 - \u6211\u4e0d\u80fd\u54ed","hash":"F56DA542892C285394F3AD28B8C9ED5B","size"
+:4372790,"ext":"mp3","time":270941,"bitrate":128,"mv":null,"trac":0,"isfilehead":100},{"sid":27800240
+,"name":"\u83ab\u8273\u7433 - \u5954\u8dd1\u5427\u9752\u86d9","hash":"0428023FD1E86640AE837B760078B7FA"
+,"size":4335071,"ext":"mp3","time":270000,"bitrate":128,"mv":null,"trac":0,"isfilehead":99},{"sid":38248094
+,"name":"\u83ab\u8273\u7433 - \u60f3\u4ec0\u4e48","hash":"C4149FE0920B48869E2307F8F360491A","size":3749092
+,"ext":"mp3","time":234000,"bitrate":128,"mv":null,"trac":0,"isfilehead":100},{"sid":27352867,"name"
+:"\u83ab\u8273\u7433 - \u4eb2\u7231\u7684\uff0c\u4f60\u4f1a\u60f3\u6211\u5417","hash":"33B7C9B53E82917B9FD8DE336CC692CC"
+,"size":3813098,"ext":"mp3","time":235944,"bitrate":128,"mv":null,"trac":0,"isfilehead":100},{"sid":27760519
+,"name":"\u83ab\u8273\u7433 - \u5929\u874e\u548c\u5904\u5973","hash":"3126F1D2430C7A2B2D5471E190913EDA"
+,"size":3652886,"ext":"mp3","time":218000,"bitrate":128,"mv":null,"trac":0,"isfilehead":100},{"sid":32067310
+,"name":"\u83ab\u8273\u7433 - \u9003\u751f\u95e8","hash":"6EC19C077397DBA44949E8BCB264D283","size":4498054
+,"ext":"mp3","time":279000,"bitrate":128,"mv":null,"trac":0,"isfilehead":100},{"sid":27795143,"name"
+:"\u83ab\u8273\u7433 - \u770b\u6d77(Live)","hash":"3254F80FD92BDBF21D413699FB813DA5","size":4415232,"ext"
+:"mp3","time":275000,"bitrate":128,"mv":null,"trac":0,"isfilehead":100},{"sid":27795124,"name":"\u83ab
+\u8273\u7433 - \u5e73\u51e1\u4e4b\u8def(Live)","hash":"DEDDB73B0CEC8E2668A06F18F62E518D","size":3385207
+,"ext":"mp3","time":208000,"bitrate":128,"mv":null,"trac":0,"isfilehead":100},{"sid":38248095,"name"
+:"\u83ab\u8273\u7433 - \u534a\u53e5\u591a","hash":"442A41A6C553F22328A163F1AFC650E3","size":3864031,"ext"
+:"mp3","time":241000,"bitrate":128,"mv":null,"trac":0,"isfilehead":100},{"sid":27352869,"name":"\u83ab
+\u8273\u7433 - Ta","hash":"C76DF26147B8349B2F5FD3A7C7AF59E1","size":3286842,"ext":"mp3","time":203049
+,"bitrate":128,"mv":null,"trac":0,"isfilehead":100},{"sid":38248093,"name":"\u83ab\u8273\u7433 - \u9ed1
+\u767d\u7535\u5f71","hash":"597C7B237A46A862559584CD3C2D6259","size":4551156,"ext":"mp3","time":284000
+,"bitrate":128,"mv":null,"trac":0,"isfilehead":100},{"sid":38248098,"name":"\u83ab\u8273\u7433 - \u7231
+\u4e00\u70b9","hash":"976D71B3BB9772D4EBD7E292BA14ED18","size":4011572,"ext":"mp3","time":251000,"bitrate"
+:128,"mv":null,"trac":0,"isfilehead":100},{"sid":32067315,"name":"\u83ab\u8273\u7433 - \u84dd\u6d77\u8c5a"
+,"hash":"C167EB66E5275E4BD863221D98D80F35","size":3645439,"ext":"mp3","time":227000,"bitrate":128,"mv"
+:null,"trac":0,"isfilehead":99},{"sid":32067318,"name":"\u83ab\u8273\u7433 - \u522b\u4e86, \u8033\u542c
+\u7231\u60c5\u7684\u5e74\u7eaa","hash":"567311A7145B34C64B2505C087882C04","size":3884511,"ext":"mp3"
+,"time":242000,"bitrate":128,"mv":null,"trac":0,"isfilehead":99},{"sid":38248090,"name":"\u83ab\u8273
+\u7433 - \u8352\u5c9b","hash":"B0C94C0F5DDDCC0B7CC099707CDFEBFE","size":4162454,"ext":"mp3","time":260000
+,"bitrate":128,"mv":null,"trac":0,"isfilehead":100},{"sid":38248088,"name":"\u83ab\u8273\u7433 - \u5e26
+\u8d70","hash":"7366DF032A0BF32EDCCAC4AD9C086C14","size":4206758,"ext":"mp3","time":263000,"bitrate"
+:128,"mv":null,"trac":0,"isfilehead":100},{"sid":27352868,"name":"\u83ab\u8273\u7433 - \u5931\u7720\u75c7"
+,"hash":"5E70D769FFC628F76682A63B1BEF4D43","size":4398689,"ext":"mp3","time":272544,"bitrate":128,"mv"
+:null,"trac":0,"isfilehead":100}]}
+]}
+
+
+
+请求资源前第二个post
+
+地址
+http://media.store.kugou.com/v1/get_res_privilege
+
+参数
+{"behavior":"play",
+"relate":0,
+"appid":1390,
+"clientver":"1",
+"resource":[{	"name":"",
+				"id":0,"type":"audio",
+				"hash":"3c775512a70b2446d884340072127456"
+			}],
+"userid":0,
+"token":"",
+"vip":0}
+
+响应信息
+{"status":1,
+"data":[{	"exclusive_status":-1,
+			"id":46480,
+			"hash":"3C775512A70B2446D884340072127456",
+			"expire":0,
+			"_msg":"Allow: the audio without any copyright.",
+			"privilege":0,
+			"topic_remark":"",
+			"pkg_price":0,
+			"album_id":"",
+			"buy_count":0,
+			"exclusive_end_time":"0000-00-00",
+			"exclusive_start_time":"0000-00-00",
+			"end_time":"0000-00-00",
+			"level":2,
+			"price":0,
+			"info":{"filesize":4372000,  歌曲文件大小
+			"extname":"mp3",  文件格式
+			"bitrate":128,
+			"flag":100,
+			"image":"",
+			"intro":"",
+			"duration":270000},
+			"relate_goods":[],
+			"status":1,
+			"singername":"莫艳琳",
+			"pay_type":0,
+			"fail_process":0,
+			"start_time":"0000-00-00",
+			"publish":1,
+			"topic_url":"",
+			"discount":[],
+			"type":"audio",
+			_errno":0,"name"
+			:"莫艳琳 - 我不能哭",
+			"old_hide":0
+		}],
+"error_code":0,"message":""}
+
+
+请求资源链接
+http://trackercdn.kugou.com/i/?cmd=3&acceptMp3=1&pid=6&hash=3c775512a70b2446d884340072127456&key=fae08258daba955a8534c6f08b936d1b
+key值未找到 key不正确post报Bad key错误，一首歌对应一个key
+
+尝试key解码
+key = md5(hash."kgcloud")
+
+！————————————————————————————————————————————
+	$hash = "7a4e3c13b5833d15088818cc96486f1f";
+	echo md5($hash."kgcloud");
+
+	hash值全小写
+
+	参数要么是后端传来 要么是前端计算 得到
+	——————————————————————————————————————————————！
